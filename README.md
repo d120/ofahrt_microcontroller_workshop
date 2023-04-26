@@ -1,1 +1,1 @@
-# ofahrt_microcontroller_workshop
+# Codevorlagen für den Microcontroler Workshop
