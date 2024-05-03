@@ -15,5 +15,5 @@ void toggle() {
   if (digitalRead(LEDS_PIN_IN) == HIGH)
     digitalWrite(LEDS_PIN_OUT, 1);
   else
-    digitalWrite(LEDS_PIN_OUT, 1);
+    digitalWrite(LEDS_PIN_OUT, 0);
 }
