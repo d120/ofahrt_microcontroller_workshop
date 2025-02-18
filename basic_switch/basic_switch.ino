@@ -1,6 +1,6 @@
 #include "Freenove_WS2812_Lib_for_ESP32.h"
 
-#define LEDS_COUNT  20
+#define LEDS_COUNT  40
 #define LEDS_PIN	13
 #define CHANNEL		0
 
